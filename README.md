@@ -1,13 +1,23 @@
 # parking-rating
 
+An application to retrieve parking lot information using Yelp's API.
+
+# Installation Instructions
+
+- Fork and Clone this Repository
+- CD to your local copy of the repo
+- In terminal type EITHER `npm install` or `yarn install`
+  <br>
+  <br>
+
 - Parking is a category we can filter by
 - Need to pass in a location as a string
 
 ## Approach
 
-- [ ] - Create a container component to retrieve and store Yelp API data
-- [ ] - Create a card component to render the results
-- [ ] - Apply basic styling
+- [x] - Create a container component to retrieve and store Yelp API data
+- [x] - Create a card component to render the results
+- [x] - Apply basic styling
 - [ ] - Double check everything
 
 ### Sample API response
